@@ -1,0 +1,17 @@
+
+
+
+http://www.way2automation.com/angularjs-protractor/registeration/#/login
+
+id username input
+(if less then three characters message should be shown)
+id passowrd input 
+(if less then three character message should be shown)
+id formly_1_input_username_0
+
+
+
+in next scrren ng-scope should have text "You're logged in!!" in p tag
+
+and logout button should be there in a tag
+clicking on it it should redirect to the mainpage
