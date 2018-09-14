@@ -65,7 +65,7 @@ describe('Testing bank app ', function () {
             Transaction.getTransactionDetails().then(function (totaltransactnow) {
               var tra1 = totaltransactnow;
               //it shiuld increase with two trasacrtions
-              expect(tra1).toBe(tra+2);
+              expect(tra1).toBe(tra + 2);
             });
           });
         });
